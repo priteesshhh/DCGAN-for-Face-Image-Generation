@@ -1,5 +1,4 @@
 # DCGAN-for-Face-Image-Generation
-# Assignment 3: DCGAN for Face Image Generation
 
 ## Overview
 In this assignment, I implemented and trained a Deep Convolutional Generative Adversarial Network (DCGAN) using **PyTorch** to generate realistic facial images based on the **CelebA-HQ 256x256** dataset. The project covers the full deep learning pipeline—from dataset preprocessing to evaluating the generated images using the **Fréchet Inception Distance (FID)** metric.
